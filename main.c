@@ -2,12 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdbool.h>
+int enmynmbr = 2;
 
 int main() {
 int snty = 10;
 }
 int combat() {
-int enmynmbr = 2;
 int j;
 int i;
 int selfwnd[] = {0,0,0,0,0,0,0,0,0};
