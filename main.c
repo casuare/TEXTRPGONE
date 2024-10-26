@@ -6,6 +6,7 @@ int enmynmbr = 2;
 
 int main() {
 int snty = 10;
+ combat();
 }
 
 int combat() {
