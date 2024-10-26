@@ -27,36 +27,47 @@ if (selfht = true) {
     switch (hitarea) {
         case 0:
         printf("The Attack Missed!");
+         break;
 
         case 1:
         printf("The Attack Missed!");
+         break;
         
         case 2:
         printf("The Attack Missed!");
+         break;
         
         case 3:
         printf("The Attack Hit Your Feet!");
+         break;
         
         case 4:
         printf("The Attack Hit Your Right Leg!");
+         break;
         
         case 5:
         printf("The Attack Hit Your Torso!");
+         break;
         
         case 6:
         printf("The Attack Hit Your Right Hand!");
+         break;
         
         case 7:
         printf("The Attack Hit Your Right Arm!");
+         break;
         
         case 8:
         printf("The Attack Hit Your Left Hand!");
+         break;
         
         case 9:
         printf("The Attack Hit Your Left Arm!");
+         break;
         
         case 10:
         printf("The Attack Hit Your Head!");
+         break;
     }
     }
 }
