@@ -5,6 +5,6 @@ int main() {
 int wounds[] = {0,0,0,0,0,0,0,0,0};
 int sanity = 10
 srand(time(NULL));  
-int r = rand();
+int hitarea = rand(8);
   
 }
