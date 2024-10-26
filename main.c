@@ -5,9 +5,9 @@ int combat() {
 int enemwnd[] = {0,0,0,0,0,0,0,0,0};
 }
 int main() {
-int wounds[] = {0,0,0,0,0,0,0,0,0};
-int sanity = 10
+int selfwnd[] = {0,0,0,0,0,0,0,0,0};
+int snty = 10;
 srand(time(NULL));  
-int hitarea = rand(8);
+int hitarea = rand();
   
 }
