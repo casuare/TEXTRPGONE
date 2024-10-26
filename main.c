@@ -35,7 +35,7 @@ if (selfht = true) {
         printf("The Attack Missed!")
         
         case 3:
-        printf("The Attack Hit Your Foot!")
+        printf("The Attack Hit Your Feet!")
         
         case 4:
         printf("The Attack Hit Your Right Leg!")
