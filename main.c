@@ -4,9 +4,9 @@
 #include <stdbool.h>
 
 int combat() {
-int enemwnd[] = {0,0,0,0,0,0,0};
 int selfwnd[] = {0,0,0,0,0,0,0};
-int snty = 10;
+int enemwnd1[] = {0,0,0,0,0,0,0};
+int enemwnd2[] = {0,0,0,0,0,0,0};
 srand(time(NULL));  
 int hitarea = 0;
 bool int selfht = false;
@@ -16,6 +16,6 @@ if (selfht = true) {
 }
 
 int main() {
-
+int snty = 10;
 
 }
