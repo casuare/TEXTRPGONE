@@ -4,9 +4,13 @@
 #include <stdbool.h>
 
 int combat() {
-int selfwnd[] = {0,0,0,0,0,0,0};
-int enemwnd1[] = {0,0,0,0,0,0,0};
-int enemwnd2[] = {0,0,0,0,0,0,0};
+int selfwnd[] = {0,0,0,0,0,0,0,0,0};
+int enmywnd[9][enmynmbr];    
+ for(j=0; j<9; j++){
+   for(i=0; i<enmynmbr; ++i){
+       matrix[j][i])=0;
+   }
+}
 srand(time(NULL));  
 int hitarea = 0;
 bool int selfht = false;
@@ -17,5 +21,5 @@ if (selfht = true) {
 
 int main() {
 int snty = 10;
-
+int enmynmbr = 2;
 }
